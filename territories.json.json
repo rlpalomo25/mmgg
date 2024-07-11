@@ -1,0 +1,4654 @@
+{
+  "Abilene-Sweetwater, TX": {
+    "states": {
+      "TX": [
+        "Brown",
+        "Callahan",
+        "Coleman",
+        "Eastland",
+        "Fisher",
+        "Haskell",
+        "Jones",
+        "Knox",
+        "Mitchell",
+        "Nolan",
+        "Runnels",
+        "Scurry",
+        "Shackelford",
+        "Stephens",
+        "Stonewall",
+        "Taylor"
+      ]
+    }
+  },
+  "Albany": {
+    "states": {
+      "GA": [
+        "Atkinson",
+        "Baker",
+        "Ben Hill",
+        "Berrien",
+        "Calhoun",
+        "Coffee",
+        "Colquitt",
+        "Cook",
+        "Crisp",
+        "Dougherty",
+        "Irwin",
+        "Lee",
+        "Mitchell",
+        "Terrell",
+        "Tift",
+        "Turner",
+        "Worth"
+      ]
+    }
+  },
+  "Albany-Schenectady-Troy": {
+    "states": {
+      "MA": [
+        "Berkshire"
+      ],
+      "NY": [
+        "Albany",
+        "Columbia",
+        "Fulton",
+        "Greene",
+        "Hamilton",
+        "Montgomery",
+        "Rensselaer",
+        "Saratoga",
+        "Schenectady",
+        "Schoharie",
+        "Warren",
+        "Washington"
+      ],
+      "VT": [
+        "Bennington"
+      ]
+    }
+  },
+  "Albuquerque-Santa Fe": {
+    "states": {
+      "CO": [
+        "La Plata",
+        "Montezuma"
+      ],
+      "NM": [
+        "Bernalillo",
+        "Catron",
+        "Chaves",
+        "Cibola",
+        "Colfax",
+        "De Baca",
+        "Eddy",
+        "Grant",
+        "Guadalupe",
+        "Harding",
+        "Hidalgo",
+        "Lincoln",
+        "Los Alamos",
+        "Luna",
+        "McKinley",
+        "Mora",
+        "Otero",
+        "Rio Arriba",
+        "San Juan",
+        "San Miguel",
+        "Sandoval",
+        "Santa Fe",
+        "Sierra",
+        "Socorro",
+        "Taos",
+        "Torrance",
+        "Valencia"
+      ]
+    }
+  },
+  "Alexandria": {
+    "states": {
+      "LA": [
+        "Avoyelles Parish",
+        "Grant Parish",
+        "Rapides Parish",
+        "Vernon Parish"
+      ]
+    }
+  },
+  "Alpena, MI": {
+    "states": {
+      "MI": [
+        "Alcona",
+        "Alpena"
+      ]
+    }
+  },
+  "Amarillo": {
+    "states": {
+      "NM": [
+        "Curry",
+        "Quay",
+        "Roosevelt",
+        "Union"
+      ],
+      "OK": [
+        "Beaver",
+        "Cimarron",
+        "Texas"
+      ],
+      "TX": [
+        "Armstrong",
+        "Carson",
+        "Castro",
+        "Childress",
+        "Collingsworth",
+        "Cottle",
+        "Dallam",
+        "Deaf Smith",
+        "Donley",
+        "Gray",
+        "Hall",
+        "Hansford",
+        "Hartley",
+        "Hemphill",
+        "Hutchinson",
+        "Lipscomb",
+        "Moore",
+        "Ochiltree",
+        "Oldham",
+        "Parmer",
+        "Potter",
+        "Randall",
+        "Roberts",
+        "Sherman",
+        "Swisher",
+        "Wheeler"
+      ]
+    }
+  },
+  "Atlanta": {
+    "states": {
+      "AL": [
+        "Cleburne",
+        "Randolph",
+        "Russell"
+      ],
+      "GA": [
+        "Banks",
+        "Barrow",
+        "Bartow",
+        "Butts",
+        "Carroll",
+        "Chattooga",
+        "Cherokee",
+        "Clarke",
+        "Clayton",
+        "Cobb",
+        "Coweta",
+        "Dawson",
+        "Dekalb",
+        "Douglas",
+        "Fannin",
+        "Fayette",
+        "Floyd",
+        "Forsyth",
+        "Franklin",
+        "Fulton",
+        "Gilmer",
+        "Gordon",
+        "Greene",
+        "Gwinnett",
+        "Habersham",
+        "Hall",
+        "Haralson",
+        "Heard",
+        "Henry",
+        "Jackson",
+        "Jasper",
+        "Lamar",
+        "Lumpkin",
+        "Madison",
+        "Meriwether",
+        "Morgan",
+        "Newton",
+        "Oconee",
+        "Oglethorpe",
+        "Paulding",
+        "Pickens",
+        "Pike",
+        "Polk",
+        "Putnam",
+        "Rabun",
+        "Rockdale",
+        "Spalding",
+        "Towns",
+        "Troup",
+        "Union",
+        "Upson",
+        "Walton",
+        "White"
+      ],
+      "NC": [
+        "Clay"
+      ]
+    }
+  },
+  "Augusta": {
+    "states": {
+      "GA": [
+        "Burke",
+        "Columbia",
+        "Emanuel",
+        "Glascock",
+        "Jefferson",
+        "Jenkins",
+        "Lincoln",
+        "McDuffie",
+        "Richmond",
+        "Taliaferro",
+        "Warren",
+        "Wilkes"
+      ],
+      "SC": [
+        "Aiken",
+        "Allendale",
+        "Bamberg",
+        "Barnwell",
+        "Edgefield",
+        "McCormick"
+      ]
+    }
+  },
+  "Austin": {
+    "states": {
+      "TX": [
+        "Bastrop",
+        "Blanco",
+        "Burnet",
+        "Caldwell",
+        "Fayette",
+        "Gillespie",
+        "Hays",
+        "Lee",
+        "Llano",
+        "Mason",
+        "Travis",
+        "Williamson"
+      ]
+    }
+  },
+  "Bakersfield": {
+    "states": {
+      "CA": [
+        "Kern"
+      ]
+    }
+  },
+  "Baltimore": {
+    "states": {
+      "MD": [
+        "Anne Arundel",
+        "Baltimore",
+        "Baltimore City",
+        "Caroline",
+        "Carroll",
+        "Cecil",
+        "Harford",
+        "Howard",
+        "Kent",
+        "Queen Anne's",
+        "Talbot"
+      ]
+    }
+  },
+  "Bangor": {
+    "states": {
+      "ME": [
+        "Hancock",
+        "Penobscot",
+        "Piscataquis",
+        "Somerset",
+        "Waldo",
+        "Washington"
+      ]
+    }
+  },
+  "Baton Rouge": {
+    "states": {
+      "LA": [
+        "Ascension Parish",
+        "Assumption Parish",
+        "East Baton Rouge Parish",
+        "East Feliciana Parish",
+        "Iberville Parish",
+        "Livingston Parish",
+        "Pointe Coupee Parish",
+        "St Helena Parish",
+        "St Mary Parish",
+        "West Baton Rouge Parish",
+        "West Feliciana Parish"
+      ],
+      "MS": [
+        "Amite",
+        "Wilkinson"
+      ]
+    }
+  },
+  "Beaumont-Port Arthur": {
+    "states": {
+      "TX": [
+        "Hardin",
+        "Jasper",
+        "Jefferson",
+        "Newton",
+        "Orange",
+        "Tyler"
+      ]
+    }
+  },
+  "Bend, OR": {
+    "states": {
+      "OR": [
+        "Deschutes"
+      ]
+    }
+  },
+  "Billings": {
+    "states": {
+      "MT": [
+        "Big Horn",
+        "Carbon",
+        "Custer",
+        "Garfield",
+        "Golden Valley",
+        "Meagher",
+        "Musselshell",
+        "Park",
+        "Petroleum",
+        "Powder River",
+        "Rosebud",
+        "Stillwater",
+        "Sweet Grass",
+        "Treasure",
+        "Wheatland",
+        "Yellowstone"
+      ],
+      "WY": [
+        "Big Horn",
+        "Park"
+      ]
+    }
+  },
+  "Biloxi-Gulfport, MS": {
+    "states": {
+      "MS": [
+        "George",
+        "Greene",
+        "Harrison",
+        "Jackson",
+        "Stone"
+      ]
+    }
+  },
+  "Binghamton, NY": {
+    "states": {
+      "NY": [
+        "Broome",
+        "Chenango",
+        "Delaware",
+        "Tioga"
+      ]
+    }
+  },
+  "Birmingham": {
+    "states": {
+      "AL": [
+        "Bibb",
+        "Blount",
+        "Calhoun",
+        "Cherokee",
+        "Chilton",
+        "Clay",
+        "Coosa",
+        "Cullman",
+        "Etowah",
+        "Fayette",
+        "Greene",
+        "Hale",
+        "Jefferson",
+        "Marion",
+        "Pickens",
+        "Shelby",
+        "St Clair",
+        "Talladega",
+        "Tuscaloosa",
+        "Walker",
+        "Winston"
+      ]
+    }
+  },
+  "Bluefield-Beckley-Oak Hill,WV": {
+    "states": {
+      "VA": [
+        "Tazewell"
+      ],
+      "WV": [
+        "Fayette",
+        "Greenbrier",
+        "McDowell",
+        "Mercer",
+        "Monroe",
+        "Pocahontas",
+        "Raleigh",
+        "Summers",
+        "Wyoming"
+      ]
+    }
+  },
+  "Boise-Nampa": {
+    "states": {
+      "ID": [
+        "Adams",
+        "Boise",
+        "Camas",
+        "Elmore",
+        "Gem",
+        "Owyhee",
+        "Payette",
+        "Valley",
+        "Washington"
+      ],
+      "OR": [
+        "Malheur"
+      ]
+    }
+  },
+  "Boston-Manchester": {
+    "states": {
+      "MA": [
+        "Barnstable",
+        "Dukes",
+        "Essex",
+        "Middlesex",
+        "Nantucket",
+        "Norfolk",
+        "Plymouth",
+        "Suffolk",
+        "Worcester"
+      ],
+      "NH": [
+        "Belknap",
+        "Cheshire",
+        "Hillsborough",
+        "Merrimack",
+        "Rockingham",
+        "Strafford"
+      ],
+      "VT": [
+        "Windham"
+      ]
+    }
+  },
+  "Bowling Green, KY": {
+    "states": {
+      "KY": [
+        "Barren",
+        "Butler",
+        "Edmonson",
+        "Hart",
+        "Metcalfe"
+      ]
+    }
+  },
+  "Buffalo": {
+    "states": {
+      "NY": [
+        "Allegany",
+        "Cattaraugus",
+        "Chautauqua",
+        "Erie",
+        "Genesee",
+        "Niagra",
+        "Wyoming"
+      ],
+      "PA": [
+        "McKean",
+        "Potter"
+      ]
+    }
+  },
+  "Burlington-Plattsburgh": {
+    "states": {
+      "NH": [
+        "Grafton",
+        "Sullivan"
+      ],
+      "NY": [
+        "Clinton",
+        "Essex",
+        "Franklin"
+      ],
+      "VT": [
+        "Addison",
+        "Caledonia",
+        "Chittenden",
+        "Essex",
+        "Franklin",
+        "Grand Isle",
+        "Lamoille",
+        "Orange",
+        "Orleans",
+        "Rutland",
+        "Washington",
+        "Windsor"
+      ]
+    }
+  },
+  "Butte-Bozeman, MT": {
+    "states": {
+      "MT": [
+        "Beaverhead",
+        "Deer Lodge",
+        "Gallatin",
+        "Jefferson",
+        "Madison",
+        "Powell",
+        "Silver Bow"
+      ]
+    }
+  },
+  "Casper-Riverton, WY": {
+    "states": {
+      "WY": [
+        "Converse",
+        "Fremont",
+        "Hot Springs",
+        "Natrona",
+        "Washakie"
+      ]
+    }
+  },
+  "Cedar Rapids-Waterloo": {
+    "states": {
+      "IA": [
+        "Allamakee",
+        "Benton",
+        "Black Hawk",
+        "Bremer",
+        "Buchanan",
+        "Butler",
+        "Cedar",
+        "Chickasaw",
+        "Clayton",
+        "Delaware",
+        "Dubuque",
+        "Fayette",
+        "Grundy",
+        "Iowa",
+        "Johnson",
+        "Jones",
+        "Keokuk",
+        "Linn",
+        "Tama",
+        "Washington"
+      ]
+    }
+  },
+  "Champaign-Springfield-Decatur": {
+    "states": {
+      "IL": [
+        "Cass",
+        "Champaign",
+        "Christian",
+        "Coles",
+        "Cumberland",
+        "De Witt",
+        "Douglas",
+        "Edgar",
+        "Effingham",
+        "Ford",
+        "Logan",
+        "Macon",
+        "Menard",
+        "Morgan",
+        "Moultrie",
+        "Piatt",
+        "Sangamon",
+        "Shelby",
+        "Vermilion"
+      ]
+    }
+  },
+  "Charleston": {
+    "states": {
+      "SC": [
+        "Berkeley",
+        "Charleston",
+        "Colleton",
+        "Dorchester",
+        "Georgetown",
+        "Williamsburg"
+      ]
+    }
+  },
+  "Charleston-Huntington": {
+    "states": {
+      "KY": [
+        "Boyd",
+        "Carter",
+        "Elliott",
+        "Floyd",
+        "Greenup",
+        "Johnson",
+        "Lawrence",
+        "Lewis",
+        "Martin",
+        "Pike"
+      ],
+      "OH": [
+        "Gallia",
+        "Jackson",
+        "Lawrence",
+        "Meigs",
+        "Scioto",
+        "Vinton"
+      ],
+      "WV": [
+        "Boone",
+        "Braxton",
+        "Cabell",
+        "Calhoun",
+        "Clay",
+        "Jackson",
+        "Kanawha",
+        "Lincoln",
+        "Logan",
+        "Mason",
+        "Mingo",
+        "Nicholas",
+        "Putnam",
+        "Roane",
+        "Wayne",
+        "Wirt"
+      ]
+    }
+  },
+  "Charlotte": {
+    "states": {
+      "NC": [
+        "Alexander",
+        "Anson",
+        "Ashe",
+        "Avery",
+        "Burke",
+        "Cabarrus",
+        "Caldwell",
+        "Catawba",
+        "Cleveland",
+        "Gaston",
+        "Iredell",
+        "Lincoln",
+        "Mecklenburg",
+        "Richmond",
+        "Rowan",
+        "Stanly",
+        "Union",
+        "Watauga"
+      ],
+      "SC": [
+        "Chester",
+        "Chesterfield",
+        "Lancaster",
+        "York"
+      ]
+    }
+  },
+  "Charlottesville, VA": {
+    "states": {
+      "VA": [
+        "Albemarle",
+        "Charlottesville City",
+        "Fluvanna",
+        "Greene",
+        "Madison"
+      ]
+    }
+  },
+  "Chattanooga": {
+    "states": {
+      "GA": [
+        "Catoosa",
+        "Dade",
+        "Murray",
+        "Walker",
+        "Whitfield"
+      ],
+      "NC": [
+        "Cherokee"
+      ],
+      "TN": [
+        "Bledsoe",
+        "Bradley",
+        "Grundy",
+        "Hamilton",
+        "Marion",
+        "McMinn",
+        "Meigs",
+        "Polk",
+        "Rhea",
+        "Sequatchie"
+      ]
+    }
+  },
+  "Cheyenne-Scottsbluff, WY": {
+    "states": {
+      "NE": [
+        "Scotts Bluff",
+        "Sioux"
+      ],
+      "WY": [
+        "Goshen",
+        "Laramie"
+      ]
+    }
+  },
+  "Chicago": {
+    "states": {
+      "IL": [
+        "Cook",
+        "Dekalb",
+        "Dupage",
+        "Grundy",
+        "Kane",
+        "Kankakee",
+        "Kendall",
+        "La Salle",
+        "Lake",
+        "McHenry",
+        "Will"
+      ],
+      "IN": [
+        "Jasper",
+        "La Porte",
+        "Lake",
+        "Newton",
+        "Porter"
+      ]
+    }
+  },
+  "Chico-Redding": {
+    "states": {
+      "CA": [
+        "Butte",
+        "Glenn",
+        "Modoc",
+        "Shasta",
+        "Tehama",
+        "Trinity"
+      ]
+    }
+  },
+  "Cincinnati": {
+    "states": {
+      "IN": [
+        "Dearborn",
+        "Franklin",
+        "Ohio",
+        "Ripley",
+        "Switzerland",
+        "Union"
+      ],
+      "KY": [
+        "Boone",
+        "Bracken",
+        "Campbell",
+        "Gallatin",
+        "Grant",
+        "Kenton",
+        "Mason",
+        "Owen",
+        "Pendleton",
+        "Robertson"
+      ],
+      "OH": [
+        "Adams",
+        "Brown",
+        "Butler",
+        "Clermont",
+        "Clinton",
+        "Hamilton",
+        "Highland",
+        "Warren"
+      ]
+    }
+  },
+  "Clarksburg-Weston": {
+    "states": {
+      "WV": [
+        "Barbour",
+        "Doddridge",
+        "Gilmer",
+        "Harrison",
+        "Lewis",
+        "Marion",
+        "Randolph",
+        "Ritchie",
+        "Taylor",
+        "Tucker",
+        "Upshur",
+        "Webster"
+      ]
+    }
+  },
+  "Cleveland-Akron-Canton": {
+    "states": {
+      "OH": [
+        "Ashland",
+        "Ashtabula",
+        "Carroll",
+        "Cuyahoga",
+        "Erie",
+        "Geauga",
+        "Holmes",
+        "Huron",
+        "Lake",
+        "Lorain",
+        "Medina",
+        "Portage",
+        "Richland",
+        "Stark",
+        "Summit",
+        "Tuscarawas",
+        "Wayne"
+      ]
+    }
+  },
+  "Colorado Springs-Pueblo": {
+    "states": {
+      "CO": [
+        "Baca",
+        "Bent",
+        "Crowley",
+        "Custer",
+        "El Paso",
+        "Fremont",
+        "Huerfano",
+        "Kiowa",
+        "Las Animas",
+        "Otero",
+        "Pueblo",
+        "Teller"
+      ]
+    }
+  },
+  "Columbia": {
+    "states": {
+      "SC": [
+        "Calhoun",
+        "Clarendon",
+        "Fairfield",
+        "Kershaw",
+        "Lee",
+        "Lexington",
+        "Newberry",
+        "Orangeburg",
+        "Richland",
+        "Saluda",
+        "Sumter"
+      ]
+    }
+  },
+  "Columbia-Jefferson City": {
+    "states": {
+      "MO": [
+        "Audrain",
+        "Boone",
+        "Callaway",
+        "Chariton",
+        "Cole",
+        "Cooper",
+        "Howard",
+        "Maries",
+        "Miller",
+        "Moniteau",
+        "Montgomery",
+        "Morgan",
+        "Osage",
+        "Randolph"
+      ]
+    }
+  },
+  "Columbus-Tupelo-West Point": {
+    "states": {
+      "AL": [
+        "Lamar"
+      ],
+      "MS": [
+        "Calhoun",
+        "Chickasaw",
+        "Choctaw",
+        "Clay",
+        "Itawamba",
+        "Lee",
+        "Lowndes",
+        "Monroe",
+        "Montgomery",
+        "Noxubee",
+        "Oktibbeha",
+        "Pontotoc",
+        "Prentiss",
+        "Tishomingo",
+        "Union",
+        "Webster",
+        "Winston",
+        "Yalobusha"
+      ]
+    }
+  },
+  "Columbus, GA": {
+    "states": {
+      "AL": [
+        "Barbour",
+        "Chambers",
+        "Lee"
+      ],
+      "GA": [
+        "Chattahoochee",
+        "Clay",
+        "Harris",
+        "Marion",
+        "Muscogee",
+        "Quitman",
+        "Randolph",
+        "Schley",
+        "Stewart",
+        "Sumter",
+        "Talbot",
+        "Taylor",
+        "Webster",
+        "Wheeler"
+      ]
+    }
+  },
+  "Columbus, OH": {
+    "states": {
+      "OH": [
+        "Athens",
+        "Coshocton",
+        "Crawford",
+        "Delaware",
+        "Fairfield",
+        "Fayette",
+        "Franklin",
+        "Guernsey",
+        "Hardin",
+        "Hocking",
+        "Knox",
+        "Licking",
+        "Madison",
+        "Marion",
+        "Monroe",
+        "Morgan",
+        "Morrow",
+        "Perry",
+        "Pickaway",
+        "Pike",
+        "Ross",
+        "Union"
+      ]
+    }
+  },
+  "Corpus Christi": {
+    "states": {
+      "TX": [
+        "Aransas",
+        "Bee",
+        "Duval",
+        "Jim Hogg",
+        "Jim Wells",
+        "Kleberg",
+        "Live Oak",
+        "Nueces",
+        "Refugio",
+        "San Patricio"
+      ]
+    }
+  },
+  "Dallas-Fort Worth": {
+    "states": {
+      "TX": [
+        "Anderson",
+        "Bosque",
+        "Collin",
+        "Comanche",
+        "Cooke",
+        "Dallas",
+        "Delta",
+        "Denton",
+        "Ellis",
+        "Erath",
+        "Fannin",
+        "Freestone",
+        "Hamilton",
+        "Henderson",
+        "Hill",
+        "Hood",
+        "Hopkins",
+        "Hunt",
+        "Jack",
+        "Johnson",
+        "Kaufman",
+        "Lamar",
+        "Navarro",
+        "Palo Pinto",
+        "Parker",
+        "Rains",
+        "Red River",
+        "Rockwall",
+        "Somervell",
+        "Tarrant",
+        "Van Zandt",
+        "Wise"
+      ]
+    }
+  },
+  "Dayton": {
+    "states": {
+      "IN": [
+        "Wayne"
+      ],
+      "OH": [
+        "Auglaize",
+        "Champaign",
+        "Clark",
+        "Darke",
+        "Greene",
+        "Logan",
+        "Mercer",
+        "Miami",
+        "Montgomery",
+        "Preble",
+        "Shelby"
+      ]
+    }
+  },
+  "Denver": {
+    "states": {
+      "CO": [
+        "Adams",
+        "Alamosa",
+        "Arapahoe",
+        "Archuleta",
+        "Boulder",
+        "Broomfield",
+        "Chaffee",
+        "Cheyenne",
+        "Clear Creek",
+        "Conejos",
+        "Costilla",
+        "Delta",
+        "Denver",
+        "Dolores",
+        "Douglas",
+        "Eagle",
+        "Elbert",
+        "Garfield",
+        "Gilpin",
+        "Grand",
+        "Gunnison",
+        "Hinsdale",
+        "Jackson",
+        "Jefferson",
+        "Kit Carson",
+        "Lake",
+        "Larimer",
+        "Lincoln",
+        "Logan",
+        "Mineral",
+        "Moffat",
+        "Morgan",
+        "Ouray",
+        "Park",
+        "Phillips",
+        "Pitkin",
+        "Prowers",
+        "Rio Blanco",
+        "Rio Grande",
+        "Routt",
+        "Saguache",
+        "San Juan",
+        "Sedgwick",
+        "Summit",
+        "Washington",
+        "Weld",
+        "Yuma"
+      ],
+      "NE": [
+        "Arthur",
+        "Banner",
+        "Box Butte",
+        "Cherry",
+        "Cheyenne",
+        "Dawes",
+        "Deuel",
+        "Garden",
+        "Grant",
+        "Hooker",
+        "Keith",
+        "Kimball",
+        "Sheridan"
+      ],
+      "WY": [
+        "Albany",
+        "Campbell",
+        "Carbon",
+        "Johnson",
+        "Niobrara",
+        "Platte"
+      ]
+    }
+  },
+  "Des Moines-Ames": {
+    "states": {
+      "IA": [
+        "Adair",
+        "Adams",
+        "Appanoose",
+        "Audubon",
+        "Boone",
+        "Calhoun",
+        "Carroll",
+        "Clarke",
+        "Dallas",
+        "Decatur",
+        "Franklin",
+        "Greene",
+        "Guthrie",
+        "Hamilton",
+        "Hardin",
+        "Humboldt",
+        "Jasper",
+        "Kossuth",
+        "Lucas",
+        "Madison",
+        "Mahaska",
+        "Marion",
+        "Marshall",
+        "Monroe",
+        "Pocahontas",
+        "Polk",
+        "Poweshiek",
+        "Ringgold",
+        "Story",
+        "Taylor",
+        "Union",
+        "Warren",
+        "Wayne",
+        "Webster",
+        "Wright"
+      ]
+    }
+  },
+  "Detroit": {
+    "states": {
+      "MI": [
+        "Lapeer",
+        "Livingston",
+        "Macomb",
+        "Monroe",
+        "Oakland",
+        "Sanilac",
+        "St Clair",
+        "Washtenaw",
+        "Wayne"
+      ]
+    }
+  },
+  "Dothan, AL": {
+    "states": {
+      "AL": [
+        "Coffee",
+        "Dale",
+        "Geneva",
+        "Henry",
+        "Houston"
+      ],
+      "GA": [
+        "Early"
+      ]
+    }
+  },
+  "Duluth-Superior": {
+    "states": {
+      "MI": [
+        "Gogebic"
+      ],
+      "MN": [
+        "Carlton",
+        "Cook",
+        "Itasca",
+        "Koochiching",
+        "Lake",
+        "Roseau",
+        "St Louis"
+      ],
+      "WI": [
+        "Ashland",
+        "Bayfield",
+        "Douglas",
+        "Sawyer"
+      ]
+    }
+  },
+  "El Paso-Las Cruces": {
+    "states": {
+      "NM": [
+        "Dona Ana"
+      ],
+      "TX": [
+        "Culberson",
+        "El Paso",
+        "Hudspeth"
+      ]
+    }
+  },
+  "Elmira (Corning), NY": {
+    "states": {
+      "NY": [
+        "Chemung",
+        "Schuyler",
+        "Steuben"
+      ],
+      "PA": [
+        "Tioga"
+      ]
+    }
+  },
+  "Erie": {
+    "states": {
+      "PA": [
+        "Crawford",
+        "Erie",
+        "Warren"
+      ]
+    }
+  },
+  "Eugene": {
+    "states": {
+      "OR": [
+        "Benton",
+        "Coos",
+        "Douglas"
+      ]
+    }
+  },
+  "Eureka, CA": {
+    "states": {
+      "CA": [
+        "Del Norte",
+        "Humboldt"
+      ]
+    }
+  },
+  "Evansville": {
+    "states": {
+      "IL": [
+        "Edwards",
+        "Wabash",
+        "Wayne",
+        "White"
+      ],
+      "IN": [
+        "Dubois",
+        "Gibson",
+        "Perry",
+        "Pike",
+        "Posey",
+        "Spencer",
+        "Vanderburgh",
+        "Warrick"
+      ],
+      "KY": [
+        "Daviess",
+        "Hancock",
+        "Henderson",
+        "Hopkins",
+        "McLean",
+        "Muhlenberg",
+        "Ohio",
+        "Union",
+        "Webster"
+      ]
+    }
+  },
+  "Fargo-Valley City": {
+    "states": {
+      "MN": [
+        "Becker",
+        "Clay",
+        "Clearwater",
+        "Kittson",
+        "Lake of the Woods",
+        "Mahnomen",
+        "Marshall",
+        "Norman",
+        "Otter Tail",
+        "Pennington",
+        "Polk",
+        "Red Lake",
+        "Wilkin"
+      ],
+      "ND": [
+        "Barnes",
+        "Benson",
+        "Cass",
+        "Cavalier",
+        "Dickey",
+        "Eddy",
+        "Foster",
+        "Grand Forks",
+        "Griggs",
+        "Lamoure",
+        "Nelson",
+        "Pembina",
+        "Ramsey",
+        "Ransom",
+        "Richland",
+        "Sargent",
+        "Steele",
+        "Stutsman",
+        "Towner",
+        "Traill",
+        "Walsh"
+      ]
+    }
+  },
+  "Flint-Saginaw-Bay City": {
+    "states": {
+      "MI": [
+        "Arenac",
+        "Bay",
+        "Genesee",
+        "Gladwin",
+        "Gratiot",
+        "Huron",
+        "Iosco",
+        "Isabella",
+        "Midland",
+        "Ogemaw",
+        "Saginaw",
+        "Shiawassee",
+        "Tuscola"
+      ]
+    }
+  },
+  "Fresco-Visalia": {
+    "states": {
+      "CA": [
+        "Fresno",
+        "Kings",
+        "Madera",
+        "Mariposa",
+        "Merced",
+        "Tulare"
+      ]
+    }
+  },
+  "Ft Myers-Naples": {
+    "states": {
+      "FL": [
+        "Charlotte",
+        "Collier",
+        "Desoto",
+        "Glades",
+        "Hendry",
+        "Lee"
+      ]
+    }
+  },
+  "Ft Smith-Fayetteville": {
+    "states": {
+      "AR": [
+        "Benton",
+        "Crawford",
+        "Franklin",
+        "Johnson",
+        "Logan",
+        "Madison",
+        "Scott",
+        "Sebastian",
+        "Washington"
+      ],
+      "OK": [
+        "Le Flore",
+        "Sequoyah"
+      ]
+    }
+  },
+  "Ft Wayne": {
+    "states": {
+      "IN": [
+        "Adams",
+        "Allen",
+        "De Kalb",
+        "Huntington",
+        "Jay",
+        "Noble",
+        "Steuben",
+        "Wabash",
+        "Wells",
+        "Whitley"
+      ],
+      "OH": [
+        "Paulding",
+        "Van Wert"
+      ]
+    }
+  },
+  "Gainesville, FL": {
+    "states": {
+      "FL": [
+        "Alachua",
+        "Dixie",
+        "Gilchrist",
+        "Levy"
+      ]
+    }
+  },
+  "Glendive, MT": {
+    "states": {
+      "MT": [
+        "Dawson",
+        "Prairie"
+      ]
+    }
+  },
+  "Grand Junction-Montrose, CO": {
+    "states": {
+      "CO": [
+        "Mesa",
+        "Montrose",
+        "San Miguel"
+      ]
+    }
+  },
+  "Grand Rapids-Kalamazoo-Battle Creek": {
+    "states": {
+      "MI": [
+        "Allegan",
+        "Barry",
+        "Branch",
+        "Calhoun",
+        "Ionia",
+        "Kalamazoo",
+        "Kent",
+        "Montcalm",
+        "Muskegon",
+        "Newaygo",
+        "Oceana",
+        "Ottawa",
+        "St Joseph",
+        "Van Buren"
+      ]
+    }
+  },
+  "Great Falls, MT": {
+    "states": {
+      "MT": [
+        "Blaine",
+        "Cascade",
+        "Chouteau",
+        "Fergus",
+        "Glacier",
+        "Hill",
+        "Judith Basin",
+        "Liberty",
+        "Phillips",
+        "Pondera",
+        "Teton",
+        "Toole",
+        "Valley"
+      ]
+    }
+  },
+  "Green Bay-Appleton": {
+    "states": {
+      "MI": [
+        "Menominee"
+      ],
+      "WI": [
+        "Brown",
+        "Calumet",
+        "Door",
+        "Fond Du Lac",
+        "Green Lake",
+        "Kewaunee",
+        "Manitowoc",
+        "Marinette",
+        "Oconto",
+        "Outagamie",
+        "Shawano",
+        "Waupaca",
+        "Waushara",
+        "Winnebago"
+      ]
+    }
+  },
+  "Greensboro-High Point-Winston Salem": {
+    "states": {
+      "NC": [
+        "Alamance",
+        "Alleghany",
+        "Caswell",
+        "Davidson",
+        "Davie",
+        "Forsyth",
+        "Guilford",
+        "Montgomery",
+        "Randolph",
+        "Rockingham",
+        "Stokes",
+        "Surry",
+        "Wilkes",
+        "Yadkin"
+      ],
+      "VA": [
+        "Patrick"
+      ]
+    }
+  },
+  "Greenville-New Bern-Washington": {
+    "states": {
+      "NC": [
+        "Beaufort",
+        "Bertie",
+        "Carteret",
+        "Craven",
+        "Duplin",
+        "Greene",
+        "Hyde",
+        "Jones",
+        "Lenoir",
+        "Martin",
+        "Onslow",
+        "Pamlico",
+        "Pitt",
+        "Tyrrell",
+        "Washington"
+      ]
+    }
+  },
+  "Greenville-Spartanburg (Asheville)": {
+    "states": {
+      "GA": [
+        "Elbert",
+        "Hart",
+        "Stephens"
+      ],
+      "NC": [
+        "Buncombe",
+        "Graham",
+        "Haywood",
+        "Henderson",
+        "Jackson",
+        "Macon",
+        "Madison",
+        "McDowell",
+        "Mitchell",
+        "Polk",
+        "Rutherford",
+        "Swain",
+        "Transylvania",
+        "Yancey"
+      ],
+      "SC": [
+        "Abbeville",
+        "Anderson",
+        "Cherokee",
+        "Greenville",
+        "Greenwood",
+        "Laurens",
+        "Oconee",
+        "Pickens",
+        "Spartanburg",
+        "Union"
+      ]
+    }
+  },
+  "Greenwood-Greenville, MS": {
+    "states": {
+      "AR": [
+        "Chicot"
+      ],
+      "MS": [
+        "Bolivar",
+        "Carroll",
+        "Grenada",
+        "Issaquena",
+        "Leflore",
+        "Sunflower",
+        "Tallahatchie",
+        "Washington"
+      ]
+    }
+  },
+  "Harlingen-Weslaco-Brownsville": {
+    "states": {
+      "TX": [
+        "Cameron",
+        "Hidalgo",
+        "Kenedy",
+        "Starr",
+        "Willacy"
+      ]
+    }
+  },
+  "Harrisburg-Lancaster-York": {
+    "states": {
+      "PA": [
+        "Adams",
+        "Cumberland",
+        "Dauphin",
+        "Franklin",
+        "Juniata",
+        "Lancaster",
+        "Lebanon",
+        "Mifflin",
+        "Perry",
+        "York"
+      ]
+    }
+  },
+  "Harrisburg, VA": {
+    "states": {
+      "VA": [
+        "Harrisonburg City"
+      ]
+    }
+  },
+  "Harrisonburg, VA": {
+    "states": {
+      "VA": [
+        "Augusta",
+        "Rockingham",
+        "Staunton City",
+        "Waynesboro City"
+      ],
+      "WV": [
+        "Pendleton"
+      ]
+    }
+  },
+  "Hartford-New Haven": {
+    "states": {
+      "CT": [
+        "Hartford",
+        "Litchfield",
+        "Middlesex",
+        "New Haven",
+        "New London",
+        "Tolland",
+        "Windham"
+      ]
+    }
+  },
+  "Hattiesburg-Laurel, MS": {
+    "states": {
+      "MS": [
+        "Covington",
+        "Forrest",
+        "Jasper",
+        "Jones",
+        "Lamar",
+        "Marion",
+        "Perry",
+        "Wayne"
+      ]
+    }
+  },
+  "Helena, MT": {
+    "states": {
+      "MT": [
+        "Broadwater",
+        "Lewis and Clark"
+      ]
+    }
+  },
+  "Honolulu": {
+    "states": {
+      "HI": [
+        "Hawaii",
+        "Honolulu",
+        "Kalawao",
+        "Kauai",
+        "Maui"
+      ]
+    }
+  },
+  "Houston": {
+    "states": {
+      "TX": [
+        "Austin",
+        "Brazoria",
+        "Calhoun",
+        "Chambers",
+        "Colorado",
+        "Fort Bend",
+        "Galveston",
+        "Grimes",
+        "Harris",
+        "Jackson",
+        "Liberty",
+        "Matagorda",
+        "Montgomery",
+        "Polk",
+        "San Jacinto",
+        "Trinity",
+        "Walker",
+        "Waller",
+        "Washington",
+        "Wharton"
+      ]
+    }
+  },
+  "Huntsville-Decatur": {
+    "states": {
+      "AL": [
+        "Colbert",
+        "Dekalb",
+        "Franklin",
+        "Jackson",
+        "Lauderdale",
+        "Lawrence",
+        "Limestone",
+        "Madison",
+        "Marshall",
+        "Morgan"
+      ],
+      "TN": [
+        "Lincoln"
+      ]
+    }
+  },
+  "Idaho Falls-Pocatello": {
+    "states": {
+      "ID": [
+        "Bannock",
+        "Bingham",
+        "Bonneville",
+        "Butte",
+        "Caribou",
+        "Clark",
+        "Custer",
+        "Fremont",
+        "Jefferson",
+        "Lemhi",
+        "Madison",
+        "Power",
+        "Teton"
+      ],
+      "WY": [
+        "Teton"
+      ]
+    }
+  },
+  "Indianapolis": {
+    "states": {
+      "IN": [
+        "Bartholomew",
+        "Blackford",
+        "Boone",
+        "Brown",
+        "Carroll",
+        "Cass",
+        "Clinton",
+        "Decatur",
+        "Delaware",
+        "Fayette",
+        "Fountain",
+        "Grant",
+        "Hamilton",
+        "Hancock",
+        "Hendricks",
+        "Henry",
+        "Howard",
+        "Johnson",
+        "Lawrence",
+        "Madison",
+        "Marion",
+        "Miami",
+        "Monroe",
+        "Montgomery",
+        "Morgan",
+        "Owen",
+        "Putnam",
+        "Randolph",
+        "Rush",
+        "Shelby",
+        "Tipton",
+        "White"
+      ]
+    }
+  },
+  "Jackson": {
+    "states": {
+      "MS": [
+        "Adams",
+        "Attala",
+        "Claiborne",
+        "Copiah",
+        "Franklin",
+        "Hinds",
+        "Holmes",
+        "Humphreys",
+        "Jefferson",
+        "Jefferson Davis",
+        "Lawrence",
+        "Leake",
+        "Lincoln",
+        "Madison",
+        "Pike",
+        "Rankin",
+        "Scott",
+        "Sharkey",
+        "Simpson",
+        "Smith",
+        "Walthall",
+        "Warren",
+        "Yazoo"
+      ]
+    }
+  },
+  "Jackson, TN": {
+    "states": {
+      "TN": [
+        "Carroll",
+        "Chester",
+        "Hardin",
+        "Henderson",
+        "Madison"
+      ]
+    }
+  },
+  "Jacksonville": {
+    "states": {
+      "FL": [
+        "Baker",
+        "Bradford",
+        "Clay",
+        "Columbia",
+        "Duval",
+        "Nassau",
+        "Putnam",
+        "St Johns",
+        "Union"
+      ],
+      "GA": [
+        "Brantley",
+        "Camden",
+        "Charlton",
+        "Glynn",
+        "Pierce",
+        "Ware"
+      ]
+    }
+  },
+  "Johnstown-Altoona": {
+    "states": {
+      "PA": [
+        "Bedford",
+        "Blair",
+        "Cambria",
+        "Cameron",
+        "Centre",
+        "Clearfield",
+        "Elk",
+        "Huntingdon",
+        "Jefferson",
+        "Somerset"
+      ]
+    }
+  },
+  "Jonesboro, AR": {
+    "states": {
+      "AR": [
+        "Clay",
+        "Craighead",
+        "Greene",
+        "Izard",
+        "Lawrence",
+        "Randolph",
+        "Sharp"
+      ],
+      "MO": [
+        "Ripley"
+      ]
+    }
+  },
+  "Joplin-Pittsburg": {
+    "states": {
+      "KS": [
+        "Allen",
+        "Bourbon",
+        "Cherokee",
+        "Crawford",
+        "Labette",
+        "Neosho",
+        "Wilson",
+        "Woodson"
+      ],
+      "MO": [
+        "Barton",
+        "Jasper",
+        "McDonald",
+        "Newton",
+        "Vernon"
+      ],
+      "OK": [
+        "Ottawa"
+      ]
+    }
+  },
+  "Kansas City": {
+    "states": {
+      "KS": [
+        "Anderson",
+        "Atchison",
+        "Douglas",
+        "Franklin",
+        "Johnson",
+        "Leavenworth",
+        "Linn",
+        "Miami",
+        "Wyandotte"
+      ],
+      "MO": [
+        "Bates",
+        "Caldwell",
+        "Carroll",
+        "Cass",
+        "Clay",
+        "Clinton",
+        "Daviess",
+        "Gentry",
+        "Grundy",
+        "Harrison",
+        "Henry",
+        "Holt",
+        "Jackson",
+        "Johnson",
+        "Lafayette",
+        "Linn",
+        "Livingston",
+        "Mercer",
+        "Nodaway",
+        "Pettis",
+        "Platte",
+        "Ray",
+        "Saline",
+        "Worth"
+      ]
+    }
+  },
+  "Knoxville": {
+    "states": {
+      "KY": [
+        "Bell",
+        "Harlan",
+        "McCreary"
+      ],
+      "TN": [
+        "Anderson",
+        "Blount",
+        "Campbell",
+        "Claiborne",
+        "Cocke",
+        "Cumberland",
+        "Fentress",
+        "Grainger",
+        "Hamblen",
+        "Hancock",
+        "Jefferson",
+        "Knox",
+        "Loudon",
+        "Monroe",
+        "Morgan",
+        "Roane",
+        "Scott",
+        "Sevier",
+        "Union"
+      ]
+    }
+  },
+  "La Crosse-Eau Claire": {
+    "states": {
+      "MN": [
+        "Houston",
+        "Winona"
+      ],
+      "WI": [
+        "Buffalo",
+        "Chippewa",
+        "Clark",
+        "Crawford",
+        "Dunn",
+        "Eau Claire",
+        "Jackson",
+        "La Crosse",
+        "Monroe",
+        "Pepin",
+        "Rusk",
+        "Trempealeau",
+        "Vernon"
+      ]
+    }
+  },
+  "Lafayette": {
+    "states": {
+      "LA": [
+        "Acadia Parish",
+        "Evangeline Parish",
+        "Iberia Parish",
+        "Jefferson Davis Parish",
+        "Lafayette Parish",
+        "St Landry Parish",
+        "St Martin Parish",
+        "Vermilion Parish"
+      ]
+    }
+  },
+  "Lafayette, IN": {
+    "states": {
+      "IN": [
+        "Benton",
+        "Tippecanoe",
+        "Warren"
+      ]
+    }
+  },
+  "Lake Charles": {
+    "states": {
+      "LA": [
+        "Allen Parish",
+        "Beauregard Parish",
+        "Calcasieu Parish",
+        "Cameron Parish"
+      ]
+    }
+  },
+  "Lansing": {
+    "states": {
+      "MI": [
+        "Clinton",
+        "Eaton",
+        "Hillsdale",
+        "Ingham",
+        "Jackson"
+      ]
+    }
+  },
+  "Laredo, TX": {
+    "states": {
+      "TX": [
+        "Webb",
+        "Zapata"
+      ]
+    }
+  },
+  "Las Vegas": {
+    "states": {
+      "NV": [
+        "Clark",
+        "Lincoln",
+        "Nye"
+      ]
+    }
+  },
+  "Lexington, KY": {
+    "states": {
+      "KY": [
+        "Anderson",
+        "Bath",
+        "Bourbon",
+        "Boyle",
+        "Breathitt",
+        "Casey",
+        "Clark",
+        "Clay",
+        "Estill",
+        "Fayette",
+        "Fleming",
+        "Franklin",
+        "Garrard",
+        "Harrison",
+        "Jackson",
+        "Jessamine",
+        "Knott",
+        "Knox",
+        "Laurel",
+        "Lee",
+        "Lincoln",
+        "Madison",
+        "Magoffin",
+        "Menifee",
+        "Mercer",
+        "Montgomery",
+        "Morgan",
+        "Nicholas",
+        "Owsley",
+        "Perry",
+        "Powell",
+        "Pulaski",
+        "Rockcastle",
+        "Rowan",
+        "Russell",
+        "Scott",
+        "Wayne",
+        "Whitley",
+        "Wolfe",
+        "Woodford"
+      ]
+    }
+  },
+  "Lima, OH": {
+    "states": {
+      "OH": [
+        "Allen",
+        "Putnam"
+      ]
+    }
+  },
+  "Lincoln-Hastings-Kearney": {
+    "states": {
+      "KS": [
+        "Jewell",
+        "Phillips",
+        "Republic",
+        "Smith"
+      ],
+      "NE": [
+        "Adams",
+        "Antelope",
+        "Boone",
+        "Boyd",
+        "Brown",
+        "Buffalo",
+        "Butler",
+        "Cass",
+        "Chase",
+        "Clay",
+        "Custer",
+        "Dawson",
+        "Fillmore",
+        "Franklin",
+        "Frontier",
+        "Furnas",
+        "Gage",
+        "Garfield",
+        "Gosper",
+        "Greeley",
+        "Hall",
+        "Hamilton",
+        "Harlan",
+        "Hayes",
+        "Hitchcock",
+        "Holt",
+        "Howard",
+        "Jefferson",
+        "Kearney",
+        "Keya Paha",
+        "Lancaster",
+        "Loup",
+        "Merrick",
+        "Nance",
+        "Nuckolls",
+        "Pawnee",
+        "Perkins",
+        "Phelps",
+        "Polk",
+        "Red Willow",
+        "Rock",
+        "Saline",
+        "Seward",
+        "Sherman",
+        "Thayer",
+        "Valley",
+        "Webster",
+        "Wheeler",
+        "York"
+      ]
+    }
+  },
+  "Little Rock-Pine Bluff": {
+    "states": {
+      "AR": [
+        "Arkansas",
+        "Bradley",
+        "Calhoun",
+        "Clark",
+        "Cleburne",
+        "Cleveland",
+        "Conway",
+        "Dallas",
+        "Desha",
+        "Drew",
+        "Faulkner",
+        "Garland",
+        "Grant",
+        "Hot Spring",
+        "Independence",
+        "Jackson",
+        "Jefferson",
+        "Lincoln",
+        "Lonoke",
+        "Monroe",
+        "Montgomery",
+        "Nevada",
+        "Ouachita",
+        "Perry",
+        "Pike",
+        "Polk",
+        "Pope",
+        "Prairie",
+        "Pulaski",
+        "Saline",
+        "Searcy",
+        "Stone",
+        "Van Buren",
+        "White",
+        "Woodruff",
+        "Yell"
+      ]
+    }
+  },
+  "Los Angeles": {
+    "states": {
+      "CA": [
+        "Inyo",
+        "Los Angeles",
+        "Orange",
+        "San Bernardino",
+        "Ventura"
+      ]
+    }
+  },
+  "Louisville": {
+    "states": {
+      "IN": [
+        "Clark",
+        "Crawford",
+        "Floyd",
+        "Harrison",
+        "Jackson",
+        "Jefferson",
+        "Jennings",
+        "Orange",
+        "Scott",
+        "Washington"
+      ],
+      "KY": [
+        "Adair",
+        "Breckinridge",
+        "Bullitt",
+        "Carroll",
+        "Grayson",
+        "Green",
+        "Hardin",
+        "Henry",
+        "Jefferson",
+        "Larue",
+        "Marion",
+        "Meade",
+        "Nelson",
+        "Oldham",
+        "Shelby",
+        "Spencer",
+        "Taylor",
+        "Trimble",
+        "Washington"
+      ]
+    }
+  },
+  "Lubbock": {
+    "states": {
+      "TX": [
+        "Bailey",
+        "Borden",
+        "Cochran",
+        "Crosby",
+        "Dawson",
+        "Dickens",
+        "Floyd",
+        "Gaines",
+        "Garza",
+        "Hale",
+        "Hockley",
+        "Kent",
+        "Lamb",
+        "Lubbock",
+        "Lynn",
+        "Motley",
+        "Terry",
+        "Yoakum"
+      ]
+    }
+  },
+  "Macon": {
+    "states": {
+      "GA": [
+        "Baldwin",
+        "Bibb",
+        "Bleckley",
+        "Crawford",
+        "Dodge",
+        "Dooly",
+        "Hancock",
+        "Houston",
+        "Johnson",
+        "Jones",
+        "Laurens",
+        "Macon",
+        "Monroe",
+        "Peach",
+        "Pulaski",
+        "Telfair",
+        "Treutlen",
+        "Twiggs",
+        "Washington",
+        "Wilcox",
+        "Wilkinson"
+      ]
+    }
+  },
+  "Madison": {
+    "states": {
+      "WI": [
+        "Columbia",
+        "Dane",
+        "Grant",
+        "Green",
+        "Iowa",
+        "Juneau",
+        "Lafayette",
+        "Marquette",
+        "Richland",
+        "Rock",
+        "Sauk"
+      ]
+    }
+  },
+  "Mankato, MN": {
+    "states": {
+      "MN": [
+        "Blue Earth",
+        "Brown",
+        "Martin",
+        "Watonwan"
+      ]
+    }
+  },
+  "Marquette, MI": {
+    "states": {
+      "MI": [
+        "Alger",
+        "Baraga",
+        "Delta",
+        "Dickinson",
+        "Houghton",
+        "Iron",
+        "Keweenaw",
+        "Marquette",
+        "Ontonagon",
+        "Schoolcraft"
+      ],
+      "WI": [
+        "Florence",
+        "Menominee"
+      ]
+    }
+  },
+  "Medford-Klamath Falls": {
+    "states": {
+      "CA": [
+        "Siskiyou"
+      ],
+      "OR": [
+        "Curry",
+        "Jackson",
+        "Josephine",
+        "Klamath",
+        "Lake",
+        "Lane"
+      ]
+    }
+  },
+  "Memphis": {
+    "states": {
+      "AR": [
+        "Crittenden",
+        "Cross",
+        "Lee",
+        "Mississippi",
+        "Phillips",
+        "Poinsett",
+        "St Francis"
+      ],
+      "MO": [
+        "Pemiscot"
+      ],
+      "MS": [
+        "Alcorn",
+        "Benton",
+        "Coahoma",
+        "DeSoto",
+        "Lafayette",
+        "Marshall",
+        "Panola",
+        "Quitman",
+        "Tate",
+        "Tippah",
+        "Tunica"
+      ],
+      "TN": [
+        "Crockett",
+        "Dyer",
+        "Fayette",
+        "Gibson",
+        "Hardeman",
+        "Haywood",
+        "Lauderdale",
+        "McNairy",
+        "Shelby",
+        "Tipton"
+      ]
+    }
+  },
+  "Meridian, MS": {
+    "states": {
+      "AL": [
+        "Choctaw",
+        "Sumter"
+      ],
+      "MS": [
+        "Clarke",
+        "Kemper",
+        "Lauderdale",
+        "Neshoba",
+        "Newton"
+      ]
+    }
+  },
+  "Miami-Ft Lauderdale": {
+    "states": {
+      "FL": [
+        "Broward",
+        "Miami-Dade",
+        "Monroe"
+      ]
+    }
+  },
+  "Milwaukee": {
+    "states": {
+      "WI": [
+        "Dodge",
+        "Jefferson",
+        "Kenosha",
+        "Milwaukee",
+        "Ozaukee",
+        "Racine",
+        "Sheboygan",
+        "Walworth",
+        "Washington",
+        "Waukesha"
+      ]
+    }
+  },
+  "Minneapolis-St Paul": {
+    "states": {
+      "MN": [
+        "Aitkin",
+        "Anoka",
+        "Beltrami",
+        "Benton",
+        "Big Stone",
+        "Carver",
+        "Cass",
+        "Chippewa",
+        "Chisago",
+        "Cottonwood",
+        "Crow Wing",
+        "Dakota",
+        "Douglas",
+        "Faribault",
+        "Goodhue",
+        "Grant",
+        "Hennepin",
+        "Hubbard",
+        "Isanti",
+        "Jackson",
+        "Kanabec",
+        "Kandiyohi",
+        "Lac Qui Parle",
+        "Le Sueur",
+        "Lyon",
+        "McLeod",
+        "Meeker",
+        "Mille Lacs",
+        "Morrison",
+        "Nicollet",
+        "Pine",
+        "Pope",
+        "Ramsey",
+        "Redwood",
+        "Renville",
+        "Rice",
+        "Scott",
+        "Sherburne",
+        "Sibley",
+        "Stearns",
+        "Steele",
+        "Stevens",
+        "Swift",
+        "Todd",
+        "Traverse",
+        "Wabasha",
+        "Wadena",
+        "Waseca",
+        "Washington",
+        "Wright",
+        "Yellow Medicine"
+      ],
+      "WI": [
+        "Barron",
+        "Burnett",
+        "Pierce",
+        "Polk",
+        "St Croix",
+        "Washburn"
+      ]
+    }
+  },
+  "Minot-Bismark-Dickinson, ND": {
+    "states": {
+      "MT": [
+        "Daniels",
+        "Fallon",
+        "McCone",
+        "Richland",
+        "Roosevelt",
+        "Sheridan",
+        "Wibaux"
+      ],
+      "ND": [
+        "Adams",
+        "Billings",
+        "Bottineau",
+        "Bowman",
+        "Burke",
+        "Burleigh",
+        "Divide",
+        "Dunn",
+        "Emmons",
+        "Golden Valley",
+        "Grant",
+        "Hettinger",
+        "Kidder",
+        "Logan",
+        "McHenry",
+        "McIntosh",
+        "McKenzie",
+        "McLean",
+        "Mercer",
+        "Morton",
+        "Mountrail",
+        "Oliver",
+        "Pierce",
+        "Renville",
+        "Rolette",
+        "Sheridan",
+        "Sioux",
+        "Slope",
+        "Stark",
+        "Ward",
+        "Wells",
+        "Williams"
+      ],
+      "SD": [
+        "Campbell",
+        "Corson"
+      ]
+    }
+  },
+  "Missoula": {
+    "states": {
+      "MT": [
+        "Flathead",
+        "Granite",
+        "Lake",
+        "Mineral",
+        "Missoula",
+        "Ravalli",
+        "Sanders"
+      ]
+    }
+  },
+  "Monroe-El Dorado": {
+    "states": {
+      "AR": [
+        "Ashley",
+        "Union"
+      ],
+      "LA": [
+        "Caldwell Parish",
+        "Catahoula Parish",
+        "Concordia Parish",
+        "East Carroll Parish",
+        "Franklin Parish",
+        "Jackson Parish",
+        "La Salle Parish",
+        "Lincoln Parish",
+        "Madison Parish",
+        "Morehouse Parish",
+        "Ouachita Parish",
+        "Richland Parish",
+        "Tensas Parish",
+        "Union Parish",
+        "West Carroll Parish",
+        "Winn Parish"
+      ]
+    }
+  },
+  "Monterey-Salinas": {
+    "states": {
+      "CA": [
+        "Monterey",
+        "San Benito",
+        "Santa Cruz"
+      ]
+    }
+  },
+  "Montgomery-Selma": {
+    "states": {
+      "AL": [
+        "Autauga",
+        "Bullock",
+        "Butler",
+        "Conecuh",
+        "Covington",
+        "Crenshaw",
+        "Dallas",
+        "Elmore",
+        "Lowndes",
+        "Macon",
+        "Marengo",
+        "Montgomery",
+        "Perry",
+        "Pike",
+        "Tallapoosa",
+        "Wilcox"
+      ]
+    }
+  },
+  "Myrtle Beach-Florence": {
+    "states": {
+      "NC": [
+        "Robeson",
+        "Scotland"
+      ],
+      "SC": [
+        "Darlington",
+        "Dillon",
+        "Florence",
+        "Horry",
+        "Marion",
+        "Marlboro"
+      ]
+    }
+  },
+  "Nashville": {
+    "states": {
+      "KY": [
+        "Allen",
+        "Christian",
+        "Clinton",
+        "Cumberland",
+        "Logan",
+        "Monroe",
+        "Simpson",
+        "Todd",
+        "Trigg",
+        "Warren"
+      ],
+      "TN": [
+        "Bedford",
+        "Benton",
+        "Cannon",
+        "Cheatham",
+        "Clay",
+        "Coffee",
+        "Davidson",
+        "De Kalb",
+        "Decatur",
+        "Dickson",
+        "Franklin",
+        "Giles",
+        "Henry",
+        "Hickman",
+        "Houston",
+        "Humphreys",
+        "Jackson",
+        "Lawrence",
+        "Lewis",
+        "Macon",
+        "Marshall",
+        "Maury",
+        "Montgomery",
+        "Moore",
+        "Overton",
+        "Perry",
+        "Pickett",
+        "Putnam",
+        "Robertson",
+        "Rutherford",
+        "Smith",
+        "Stewart",
+        "Sumner",
+        "Trousdale",
+        "Van Buren",
+        "Warren",
+        "Wayne",
+        "White",
+        "Williamson",
+        "Wilson"
+      ]
+    }
+  },
+  "New Orleans": {
+    "states": {
+      "LA": [
+        "Jefferson Parish",
+        "Lafourche Parish",
+        "Orleans Parish",
+        "Plaquemines Parish",
+        "St Bernard Parish",
+        "St Charles Parish",
+        "St James Parish",
+        "St John the Baptist Parish",
+        "St Tammany Parish",
+        "Tangipahoa Parish",
+        "Terrebonne Parish",
+        "Washington Parish"
+      ],
+      "MS": [
+        "Hancock",
+        "Pearl River"
+      ]
+    }
+  },
+  "New York City": {
+    "states": {
+      "NY": [
+        "Bronx",
+        "Kings",
+        "New York",
+        "Queens",
+        "Richmond",
+        NaN
+      ],
+      "PA": [
+        "Pike"
+      ]
+    }
+  },
+  "New York City - Long Island": {
+    "states": {
+      "NY": [
+        "Nassau",
+        "Suffolk"
+      ]
+    }
+  },
+  "New York City - NY Suburbs": {
+    "states": {
+      "CT": [
+        "Fairfield"
+      ],
+      "NY": [
+        "Dutchess",
+        "Orange",
+        "Putnam",
+        "Rockland",
+        "Sullivan",
+        "Ulster",
+        "Westchester"
+      ]
+    }
+  },
+  "New York City/North Jersey": {
+    "states": {
+      "NJ": [
+        "Bergen",
+        "Essex",
+        "Hudson",
+        "Hunterdon",
+        "Middlesex",
+        "Monmouth",
+        "Morris",
+        "Ocean",
+        "Passaic",
+        "Somerset",
+        "Sussex",
+        "Union",
+        "Warren"
+      ]
+    }
+  },
+  "Norfolk-Portsmouth-Newport News": {
+    "states": {
+      "NC": [
+        "Camden",
+        "Chowan",
+        "Currituck",
+        "Dare",
+        "Gates",
+        "Hertford",
+        "Northampton",
+        "Pasquotank",
+        "Perquimans"
+      ],
+      "VA": [
+        "Accomack",
+        "Chesapeake City",
+        "Franklin City",
+        "Gloucester",
+        "Hampton City",
+        "Isle of Wight",
+        "James City",
+        "Mathews",
+        "Newport News City",
+        "Norfolk City",
+        "Petersburg City",
+        "Poquoson City",
+        "Portsmouth City",
+        "Southampton",
+        "Spotsylvania",
+        "Suffolk City",
+        "Surry",
+        "Virginia Beach City",
+        "Williamsburg City",
+        "Winchester City",
+        "York"
+      ]
+    }
+  },
+  "North Platte": {
+    "states": {
+      "NE": [
+        "Blaine",
+        "Lincoln",
+        "Logan",
+        "McPherson",
+        "Thomas"
+      ]
+    }
+  },
+  "Odessa-Midland": {
+    "states": {
+      "NM": [
+        "Lea"
+      ],
+      "TX": [
+        "Andrews",
+        "Brewster",
+        "Briscoe",
+        "Brooks",
+        "Crane",
+        "Ector",
+        "Glasscock",
+        "Howard",
+        "Jeff Davis",
+        "Loving",
+        "Martin",
+        "Midland",
+        "Pecos",
+        "Presidio",
+        "Reagan",
+        "Reeves",
+        "Terrell",
+        "Upton",
+        "Ward",
+        "Winkler"
+      ]
+    }
+  },
+  "Oklahoma City": {
+    "states": {
+      "OK": [
+        "Alfalfa",
+        "Beckham",
+        "Blaine",
+        "Caddo",
+        "Canadian",
+        "Cleveland",
+        "Custer",
+        "Dewey",
+        "Ellis",
+        "Garfield",
+        "Garvin",
+        "Grady",
+        "Grant",
+        "Greer",
+        "Harmon",
+        "Harper",
+        "Hughes",
+        "Kay",
+        "Kingfisher",
+        "Kiowa",
+        "Lincoln",
+        "Logan",
+        "Major",
+        "McClain",
+        "Murray",
+        "Noble",
+        "Oklahoma",
+        "Payne",
+        "Pottawatomie",
+        "Roger Mills",
+        "Seminole",
+        "Washita",
+        "Woods",
+        "Woodward"
+      ]
+    }
+  },
+  "Omaha": {
+    "states": {
+      "IA": [
+        "Cass",
+        "Crawford",
+        "Fremont",
+        "Harrison",
+        "Mills",
+        "Montgomery",
+        "Page",
+        "Pottawattamie",
+        "Shelby"
+      ],
+      "MO": [
+        "Atchison"
+      ],
+      "NE": [
+        "Burt",
+        "Colfax",
+        "Cuming",
+        "Douglas",
+        "Johnson",
+        "Nemaha",
+        "Otoe",
+        "Platte",
+        "Richardson",
+        "Sarpy",
+        "Saunders",
+        "Washington"
+      ]
+    }
+  },
+  "Orlando-Daytona Beach": {
+    "states": {
+      "FL": [
+        "Brevard",
+        "Flagler",
+        "Lake",
+        "Marion",
+        "Orange",
+        "Osceola",
+        "Seminole",
+        "Sumter",
+        "Volusia"
+      ]
+    }
+  },
+  "Ottumwa-Kirksville, IA": {
+    "states": {
+      "IA": [
+        "Davis",
+        "Jefferson",
+        "Van Buren"
+      ],
+      "MO": [
+        "Adair",
+        "Macon",
+        "Putnam",
+        "Schuyler",
+        "Scotland",
+        "Sullivan"
+      ]
+    }
+  },
+  "Paducah-Cape Girardeau": {
+    "states": {
+      "IL": [
+        "Alexander",
+        "Franklin",
+        "Gallatin",
+        "Hamilton",
+        "Hardin",
+        "Jackson",
+        "Jefferson",
+        "Johnson",
+        "Massac",
+        "Perry",
+        "Pope",
+        "Pulaski",
+        "Saline",
+        "Union",
+        "Williamson"
+      ],
+      "KY": [
+        "Ballard",
+        "Caldwell",
+        "Calloway",
+        "Carlisle",
+        "Crittenden",
+        "Fulton",
+        "Graves",
+        "Hickman",
+        "Livingston",
+        "Lyon",
+        "Marshall",
+        "McCracken"
+      ],
+      "MO": [
+        "Bollinger",
+        "Butler",
+        "Cape Girardeau",
+        "Carter",
+        "Dunklin",
+        "Madison",
+        "Mississippi",
+        "New Madrid",
+        "Scott",
+        "Stoddard",
+        "Wayne"
+      ],
+      "TN": [
+        "Lake",
+        "Obion",
+        "Weakley"
+      ]
+    }
+  },
+  "Palm Springs": {
+    "states": {
+      "CA": [
+        "Riverside"
+      ]
+    }
+  },
+  "Panama City": {
+    "states": {
+      "FL": [
+        "Bay",
+        "Calhoun",
+        "Franklin",
+        "Gulf",
+        "Holmes",
+        "Jackson",
+        "Liberty",
+        "Walton",
+        "Washington"
+      ]
+    }
+  },
+  "Parkersburg": {
+    "states": {
+      "OH": [
+        "Washington"
+      ],
+      "WV": [
+        "Pleasants",
+        "Wood"
+      ]
+    }
+  },
+  "Pensacola-Mobile": {
+    "states": {
+      "AL": [
+        "Baldwin",
+        "Clarke",
+        "Escambia",
+        "Mobile",
+        "Monroe",
+        "Washington"
+      ],
+      "FL": [
+        "Escambia",
+        "Okaloosa",
+        "Santa Rosa"
+      ]
+    }
+  },
+  "Peoria-Bloomington": {
+    "states": {
+      "IL": [
+        "Fulton",
+        "Livingston",
+        "Marshall",
+        "Mason",
+        "McLean",
+        "Peoria",
+        "Putnam",
+        "Stark",
+        "Tazewell",
+        "Woodford"
+      ]
+    }
+  },
+  "Philadelphia": {
+    "states": {
+      "DE": [
+        "Kent",
+        "New Castle"
+      ],
+      "NJ": [
+        "Atlantic",
+        "Burlington",
+        "Camden",
+        "Cape May",
+        "Cumberland",
+        "Gloucester",
+        "Mercer",
+        "Salem"
+      ],
+      "PA": [
+        "Berks",
+        "Bucks",
+        "Chester",
+        "Delaware",
+        "Lehigh",
+        "Montgomery",
+        "Northampton",
+        "Philadelphia"
+      ]
+    }
+  },
+  "Phoenix": {
+    "states": {
+      "AZ": [
+        "Apache",
+        "Coconino",
+        "Gila",
+        "Graham",
+        "Greenlee",
+        "La Paz",
+        "Maricopa",
+        "Mohave",
+        "Navajo",
+        "Pinal",
+        "Yavapai"
+      ]
+    }
+  },
+  "Pittsburgh": {
+    "states": {
+      "MD": [
+        "Garrett"
+      ],
+      "PA": [
+        "Allegheny",
+        "Armstrong",
+        "Beaver",
+        "Butler",
+        "Clarion",
+        "Fayette",
+        "Forest",
+        "Greene",
+        "Indiana",
+        "Lawrence",
+        "Venango",
+        "Washington",
+        "Westmoreland",
+        NaN
+      ],
+      "WV": [
+        "Monongalia",
+        "Preston"
+      ]
+    }
+  },
+  "Portland": {
+    "states": {
+      "OR": [
+        "Baker",
+        "Clackamas",
+        "Clatsop",
+        "Columbia",
+        "Crook",
+        "Gilliam",
+        "Grant",
+        "Harney",
+        "Hood River",
+        "Jefferson",
+        "Lincoln",
+        "Linn",
+        "Marion",
+        "Multnomah",
+        "Polk",
+        "Sherman",
+        "Tillamook",
+        "Union",
+        "Wasco",
+        "Washington",
+        "Wheeler",
+        "Yamhill"
+      ],
+      "WA": [
+        "Clark",
+        "Cowlitz",
+        "Klickitat",
+        "Skamania",
+        "Wahkiakum",
+        "Walla Walla"
+      ]
+    }
+  },
+  "Portland-Auburn": {
+    "states": {
+      "ME": [
+        "Androscoggin",
+        "Cumberland",
+        "Franklin",
+        "Kennebec",
+        "Knox",
+        "Lincoln",
+        "Oxford",
+        "Sagadahoc",
+        "York"
+      ],
+      "NH": [
+        "Carroll",
+        "Coos"
+      ]
+    }
+  },
+  "Presque Isle": {
+    "states": {
+      "ME": [
+        "Aroostook"
+      ]
+    }
+  },
+  "Providence-New Bedford": {
+    "states": {
+      "MA": [
+        "Bristol"
+      ],
+      "RI": [
+        "Bristol",
+        "Kent",
+        "Newport",
+        "Providence",
+        "Washington"
+      ]
+    }
+  },
+  "Quad Cities (IL)": {
+    "states": {
+      "IA": [
+        "Clinton",
+        "Des Moines",
+        "Henry",
+        "Jackson",
+        "Louisa",
+        "Muscatine",
+        "Scott"
+      ],
+      "IL": [
+        "Bureau",
+        "Carroll",
+        "Henderson",
+        "Henry",
+        "Jo Daviess",
+        "Knox",
+        "Mercer",
+        "Rock Island",
+        "Warren",
+        "Whiteside"
+      ]
+    }
+  },
+  "Quincy-Hannibal-Keokuk": {
+    "states": {
+      "IA": [
+        "Lee"
+      ],
+      "IL": [
+        "Adams",
+        "Brown",
+        "Hancock",
+        "McDonough",
+        "Pike",
+        "Schuyler",
+        "Scott"
+      ],
+      "MO": [
+        "Clark",
+        "Knox",
+        "Lewis",
+        "Marion",
+        "Monroe",
+        "Ralls",
+        "Shelby"
+      ]
+    }
+  },
+  "Raleigh-Durham": {
+    "states": {
+      "NC": [
+        "Chatham",
+        "Cumberland",
+        "Durham",
+        "Edgecombe",
+        "Franklin",
+        "Granville",
+        "Halifax",
+        "Harnett",
+        "Hoke",
+        "Johnston",
+        "Lee",
+        "Moore",
+        "Nash",
+        "Orange",
+        "Person",
+        "Sampson",
+        "Vance",
+        "Wake",
+        "Warren",
+        "Wayne",
+        "Wilson"
+      ],
+      "VA": [
+        "Mecklenburg"
+      ]
+    }
+  },
+  "Rapid City": {
+    "states": {
+      "MT": [
+        "Carter"
+      ],
+      "NE": [
+        "Morrill"
+      ],
+      "SD": [
+        "Bennett",
+        "Custer",
+        "Fall River",
+        "H (AA), kon",
+        "Harding",
+        "Jackson",
+        "Jones",
+        "Lawrence",
+        "Meade",
+        "Pennington",
+        "Perkins",
+        "Shannon",
+        "Ziebach"
+      ],
+      "WY": [
+        "Crook",
+        "Sheridan",
+        "Weston"
+      ]
+    }
+  },
+  "Reno": {
+    "states": {
+      "CA": [
+        "Alpine",
+        "El Dorado",
+        "Lassen",
+        "Mono"
+      ],
+      "NV": [
+        "Carson City",
+        "Churchill",
+        "Douglas",
+        "Esmeralda",
+        "Humboldt",
+        "Lander",
+        "Lyon",
+        "Mineral",
+        "Pershing",
+        "Storey",
+        "Washoe"
+      ]
+    }
+  },
+  "Richmond-Petersburg": {
+    "states": {
+      "VA": [
+        "Amelia",
+        "Brunswick",
+        "Buckingham",
+        "Caroline",
+        "Charles City",
+        "Chesterfield",
+        "Colonial Heights City",
+        "Cumberland",
+        "Dinwiddie",
+        "Emporia City",
+        "Essex",
+        "Goochland",
+        "Greensville",
+        "Hanover",
+        "Henrico",
+        "Hopewell City",
+        "King and Queen",
+        "King William",
+        "Lancaster",
+        "Louisa",
+        "Lunenburg",
+        "Middlesex",
+        "New Kent",
+        "Northampton",
+        "Northumberland",
+        "Nottoway",
+        "Orange",
+        "Powhatan",
+        "Prince Edward",
+        "Prince George",
+        "Richmond",
+        "Richmond City",
+        "Sussex"
+      ]
+    }
+  },
+  "Roanoke-Lynchburg": {
+    "states": {
+      "VA": [
+        "Alleghany",
+        "Amherst",
+        "Appomattox",
+        "Bath",
+        "Bedford",
+        "Bedford City",
+        "Bland",
+        "Botetourt",
+        "Buena Vista City",
+        "Campbell",
+        "Carroll",
+        "Charlotte",
+        "Craig",
+        "Danville City",
+        "Floyd",
+        "Franklin",
+        "Galax City",
+        "Giles",
+        "Grayson",
+        "Halifax",
+        "Henry",
+        "Highland",
+        "Lynchburg City",
+        "Martinsville City",
+        "Montgomery",
+        "Nelson",
+        "Pittsylvania",
+        "Pulaski",
+        "Radford City",
+        "Roanoke",
+        "Roanoke City",
+        "Rockbridge",
+        "Salem City",
+        "Wythe"
+      ]
+    }
+  },
+  "Rochester": {
+    "states": {
+      "NY": [
+        "Livingston",
+        "Monroe",
+        "Ontario",
+        "Orleans",
+        "Wayne",
+        "Yates"
+      ]
+    }
+  },
+  "Rochester-Mason-Austin": {
+    "states": {
+      "IA": [
+        "Cerro Gordo",
+        "Floyd",
+        "Hancock",
+        "Howard",
+        "Mitchell",
+        "Winnebago",
+        "Winneshiek",
+        "Worth"
+      ],
+      "ID": [
+        "Ada"
+      ],
+      "MN": [
+        "Dodge",
+        "Fillmore",
+        "Freeborn",
+        "Mower",
+        "Olmsted"
+      ]
+    }
+  },
+  "Rockford": {
+    "states": {
+      "IL": [
+        "Boone",
+        "Lee",
+        "Ogle",
+        "Stephenson",
+        "Winnebago"
+      ]
+    }
+  },
+  "Sacramento-Stockton-Modesto": {
+    "states": {
+      "CA": [
+        "Amador",
+        "Calaveras",
+        "Colusa",
+        "Nevada",
+        "Placer",
+        "Plumas",
+        "Sacramento",
+        "San Joaquin",
+        "Sierra",
+        "Solano",
+        "Stanislaus",
+        "Sutter",
+        "Tuolumne",
+        "Yolo",
+        "Yuba"
+      ]
+    }
+  },
+  "Salisbury": {
+    "states": {
+      "DE": [
+        "Sussex"
+      ],
+      "MD": [
+        "Dorchester",
+        "Somerset",
+        "Wicomico",
+        "Worcester"
+      ]
+    }
+  },
+  "Salt Lake City": {
+    "states": {
+      "ID": [
+        "Bear Lake",
+        "Franklin",
+        "Oneida"
+      ],
+      "NV": [
+        "Elko",
+        "Eureka",
+        "White Pine"
+      ],
+      "UT": [
+        "Beaver",
+        "Box Elder",
+        "Cache",
+        "Carbon",
+        "Daggett",
+        "Davis",
+        "Duchesne",
+        "Emery",
+        "Garfield",
+        "Grand",
+        "Iron",
+        "Juab",
+        "Kane",
+        "Millard",
+        "Morgan",
+        "Piute",
+        "Rich",
+        "Salt Lake",
+        "San Juan",
+        "Sanpete",
+        "Sevier",
+        "Summit",
+        "Tooele",
+        "Uintah",
+        "Utah",
+        "Wasatch",
+        "Washington",
+        "Wayne",
+        "Weber"
+      ],
+      "WY": [
+        "Lincoln",
+        "Sublette",
+        "Sweetwater",
+        "Uinta"
+      ]
+    }
+  },
+  "San Angelo, TX": {
+    "states": {
+      "TX": [
+        "Coke",
+        "Concho",
+        "Crockett",
+        "Irion",
+        "Kimble",
+        "McCulloch",
+        "Menard",
+        "Schleicher",
+        "Sterling",
+        "Sutton",
+        "Tom Green"
+      ]
+    }
+  },
+  "San Antonio": {
+    "states": {
+      "TX": [
+        "Atascosa",
+        "Bandera",
+        "Bexar",
+        "Comal",
+        "De Witt",
+        "Dimmit",
+        "Edwards",
+        "Frio",
+        "Goliad",
+        "Gonzales",
+        "Guadalupe",
+        "Karnes",
+        "Kendall",
+        "Kerr",
+        "Kinney",
+        "La Salle",
+        "Lavaca",
+        "Maverick",
+        "McMullen",
+        "Medina",
+        "Real",
+        "Uvalde",
+        "Val Verde",
+        "Wilson",
+        "Zavala"
+      ]
+    }
+  },
+  "San Diego": {
+    "states": {
+      "CA": [
+        "San Diego"
+      ]
+    }
+  },
+  "San Fransisco-Oakland-San Jose": {
+    "states": {
+      "CA": [
+        "Alameda",
+        "Contra Costa",
+        "Lake",
+        "Marin",
+        "Mendocino",
+        "Napa",
+        "San Francisco",
+        "San Mateo",
+        "Santa Clara",
+        "Sonoma"
+      ]
+    }
+  },
+  "Santa Barbara-San Luis Obispo": {
+    "states": {
+      "CA": [
+        "San Luis Obispo",
+        "Santa Barbara"
+      ]
+    }
+  },
+  "Savannah": {
+    "states": {
+      "GA": [
+        "Appling",
+        "Bacon",
+        "Bryan",
+        "Bulloch",
+        "Candler",
+        "Chatham",
+        "Effingham",
+        "Evans",
+        "Jeff Davis",
+        "Liberty",
+        "Long",
+        "McIntosh",
+        "Montgomery",
+        "Screven",
+        "Tattnall",
+        "Toombs",
+        "Wayne"
+      ],
+      "SC": [
+        "Beaufort",
+        "Hampton",
+        "Jasper"
+      ]
+    }
+  },
+  "Seattle-Tacoma": {
+    "states": {
+      "WA": [
+        "Chelan",
+        "Clallam",
+        "Douglas",
+        "Grays Harbor",
+        "Island",
+        "Jefferson",
+        "King",
+        "Kitsap",
+        "Lewis",
+        "Mason",
+        "Pacific",
+        "Pierce",
+        "San Juan",
+        "Skagit",
+        "Snohomish",
+        "Thurston",
+        "Whatcom"
+      ]
+    }
+  },
+  "Sherman-Ada": {
+    "states": {
+      "OK": [
+        "Atoka",
+        "Bryan",
+        "Carter",
+        "Choctaw",
+        "Coal",
+        "Johnston",
+        "Love",
+        "Marshall",
+        "Pontotoc",
+        "Pushmataha"
+      ],
+      "TX": [
+        "Grayson"
+      ]
+    }
+  },
+  "Shreveport": {
+    "states": {
+      "AR": [
+        "Columbia",
+        "Hempstead",
+        "Howard",
+        "Lafayette",
+        "Little River",
+        "Miller",
+        "Sevier"
+      ],
+      "LA": [
+        "Bienville Parish",
+        "Bossier Parish",
+        "Caddo Parish",
+        "Claiborne Parish",
+        "De Soto Parish",
+        "Natchitoches Parish",
+        "Red River Parish",
+        "Sabine Parish",
+        "Webster Parish"
+      ],
+      "OK": [
+        "McCurtain"
+      ],
+      "TX": [
+        "Bowie",
+        "Cass",
+        "Harrison",
+        "Marion",
+        "Morris",
+        "Panola",
+        "Shelby",
+        "Titus"
+      ]
+    }
+  },
+  "Sioux City": {
+    "states": {
+      "IA": [
+        "Buena Vista",
+        "Cherokee",
+        "Clay",
+        "Dickinson",
+        "Emmet",
+        "Ida",
+        "Monona",
+        "Obrien",
+        "Palo Alto",
+        "Plymouth",
+        "Sac",
+        "Sioux",
+        "Woodbury"
+      ],
+      "NE": [
+        "Cedar",
+        "Dakota",
+        "Dixon",
+        "Dodge",
+        "Knox",
+        "Madison",
+        "Pierce",
+        "Stanton",
+        "Thurston",
+        "Wayne"
+      ]
+    }
+  },
+  "Sioux Falls": {
+    "states": {
+      "IA": [
+        "Lyon",
+        "Osceola"
+      ],
+      "MN": [
+        "Lincoln",
+        "Murray",
+        "Nobles",
+        "Pipestone",
+        "Rock"
+      ],
+      "SD": [
+        "Aurora",
+        "Beadle",
+        "Bon Homme",
+        "Brookings",
+        "Brown",
+        "Brule",
+        "Buffalo",
+        "Butte",
+        "Charles Mix",
+        "Clark",
+        "Clay",
+        "Codington",
+        "Davison",
+        "Day",
+        "Deuel",
+        "Dewey",
+        "Douglas",
+        "Edmunds",
+        "Faulk",
+        "Grant",
+        "Gregory",
+        "Hamlin",
+        "Hand",
+        "Hanson",
+        "Hughes",
+        "Hutchinson",
+        "Hyde",
+        "Jerauld",
+        "Kingsbury",
+        "Lake",
+        "Lincoln",
+        "Lyman",
+        "Marshall",
+        "McCook",
+        "McPherson",
+        "Mellette",
+        "Miner",
+        "Minnehaha",
+        "Moody",
+        "Potter",
+        "Roberts",
+        "Sanborn",
+        "Spink",
+        "Stanley",
+        "Sully",
+        "Todd",
+        "Tripp",
+        "Turner",
+        "Union",
+        "Walworth",
+        "Yankton"
+      ]
+    }
+  },
+  "South Bend-Elkhart": {
+    "states": {
+      "IN": [
+        "Elkhart",
+        "Fulton",
+        "Kosciusko",
+        "Lagrange",
+        "Marshall",
+        "Pulaski",
+        "St Joseph",
+        "Starke"
+      ],
+      "MI": [
+        "Berrien",
+        "Cass"
+      ]
+    }
+  },
+  "Spokane": {
+    "states": {
+      "ID": [
+        "Benewah",
+        "Bonner",
+        "Boundary",
+        "Clearwater",
+        "Idaho",
+        "Kootenai",
+        "Latah",
+        "Lewis",
+        "Nez Perce",
+        "Shoshone"
+      ],
+      "MT": [
+        "Lincoln"
+      ],
+      "OR": [
+        "Wallowa"
+      ],
+      "WA": [
+        "Adams",
+        "Asotin",
+        "Columbia",
+        "Ferry",
+        "Garfield",
+        "Grant",
+        "Lincoln",
+        "Okanogan",
+        "Pend Oreille",
+        "Spokane",
+        "Stevens",
+        "Whitman"
+      ]
+    }
+  },
+  "Springfield": {
+    "states": {
+      "AR": [
+        "Baxter",
+        "Boone",
+        "Carroll",
+        "Fulton",
+        "Marion",
+        "Newton"
+      ],
+      "MO": [
+        "Barry",
+        "Benton",
+        "Camden",
+        "Cedar",
+        "Christian",
+        "Dade",
+        "Dallas",
+        "Dent",
+        "Douglas",
+        "Greene",
+        "Hickory",
+        "Howell",
+        "Laclede",
+        "Lawrence",
+        "Oregon",
+        "Ozark",
+        "Polk",
+        "Pulaski",
+        "Shannon",
+        "St Clair",
+        "Stone",
+        "Taney",
+        "Texas",
+        "Webster",
+        "Wright"
+      ]
+    }
+  },
+  "Springfield-Holyoke": {
+    "states": {
+      "MA": [
+        "Franklin",
+        "Hampden",
+        "Hampshire"
+      ]
+    }
+  },
+  "St Louis": {
+    "states": {
+      "IL": [
+        "Bond",
+        "Calhoun",
+        "Clay",
+        "Clinton",
+        "Fayette",
+        "Greene",
+        "Jersey",
+        "Macoupin",
+        "Madison",
+        "Marion",
+        "Monroe",
+        "Montgomery",
+        "Randolph",
+        "St Clair",
+        "Washington"
+      ],
+      "MO": [
+        "Crawford",
+        "Franklin",
+        "Gasconade",
+        "Iron",
+        "Jefferson",
+        "Lincoln",
+        "Perry",
+        "Phelps",
+        "Pike",
+        "Reynolds",
+        "St Charles",
+        "St Francois",
+        "St Louis",
+        "St Louis City",
+        "Ste Genevieve",
+        "Warren",
+        "Washington"
+      ]
+    }
+  },
+  "St. Joseph, MO": {
+    "states": {
+      "KS": [
+        "Doniphan"
+      ],
+      "MO": [
+        "Andrew",
+        "Buchanan",
+        "Dekalb"
+      ]
+    }
+  },
+  "Syracuse": {
+    "states": {
+      "NY": [
+        "Cayuga",
+        "Cortland",
+        "Madison",
+        "Onondaga",
+        "Oswego",
+        "Seneca",
+        "Thompkins"
+      ]
+    }
+  },
+  "Tallahassee-Thomasville": {
+    "states": {
+      "FL": [
+        "Gadsden",
+        "Hamilton",
+        "Jefferson",
+        "Lafayette",
+        "Leon",
+        "Madison",
+        "Suwannee",
+        "Taylor",
+        "Wakulla"
+      ],
+      "GA": [
+        "Brooks",
+        "Clinch",
+        "Decatur",
+        "Echols",
+        "Grady",
+        "Lanier",
+        "Lowndes",
+        "Miller",
+        "Seminole",
+        "Thomas"
+      ]
+    }
+  },
+  "Tampa-St. Petersburg": {
+    "states": {
+      "FL": [
+        "Citrus",
+        "Hardee",
+        "Hernando",
+        "Highlands",
+        "Hillsborough",
+        "Manatee",
+        "Pasco",
+        "Pinellas",
+        "Polk",
+        "Sarasota"
+      ]
+    }
+  },
+  "Terra Haute": {
+    "states": {
+      "IL": [
+        "Clark",
+        "Crawford",
+        "Richland"
+      ]
+    }
+  },
+  "Terre Haute": {
+    "states": {
+      "IL": [
+        "Lawrence"
+      ],
+      "IN": [
+        "Clay",
+        "Daviess",
+        "Greene",
+        "Knox",
+        "Martin",
+        "Parke",
+        "Sullivan",
+        "Vermillion",
+        "Vigo"
+      ]
+    }
+  },
+  "Toledo": {
+    "states": {
+      "OH": [
+        "Defiance",
+        "Fulton",
+        "Hancock",
+        "Henry",
+        "Lucas",
+        "Ottawa",
+        "Sandusky",
+        "Seneca",
+        "Williams",
+        "Wood",
+        "Wyandot"
+      ]
+    }
+  },
+  "Topeka": {
+    "states": {
+      "KS": [
+        "Brown",
+        "Clay",
+        "Cloud",
+        "Coffey",
+        "Geary",
+        "Jackson",
+        "Jefferson",
+        "Lyon",
+        "Marshall",
+        "Morris",
+        "Nemaha",
+        "Osage",
+        "Pottawatomie",
+        "Riley",
+        "Shawnee",
+        "Wabaunsee",
+        "Washington"
+      ]
+    }
+  },
+  "Traverse City-Cadillac": {
+    "states": {
+      "MI": [
+        "Antrim",
+        "Benzie",
+        "Charlevoix",
+        "Cheboygan",
+        "Chippewa",
+        "Clare",
+        "Crawford",
+        "Emmet",
+        "Grand Traverse",
+        "Kalkaska",
+        "Lake",
+        "Leelanau",
+        "Lenawee",
+        "Luce",
+        "Mackinac",
+        "Manistee",
+        "Mason",
+        "Mecosta",
+        "Missaukee",
+        "Montmorency",
+        "Osceola",
+        "Oscoda",
+        "Otsego",
+        "Presque Isle",
+        "Roscommon",
+        "Wexford"
+      ]
+    }
+  },
+  "Tri-Cities": {
+    "states": {
+      "KY": [
+        "Leslie",
+        "Letcher"
+      ],
+      "TN": [
+        "Carter",
+        "Greene",
+        "Hawkins",
+        "Johnson",
+        "Sullivan",
+        "Unicoi",
+        "Washington"
+      ],
+      "VA": [
+        "Bristol City",
+        "Buchanan",
+        "Dickenson",
+        "Lee",
+        "Norton City",
+        "Russell",
+        "Scott",
+        "Smyth",
+        "Washington",
+        "Wise"
+      ]
+    }
+  },
+  "Tulsa": {
+    "states": {
+      "KS": [
+        "Chautauqua",
+        "Montgomery"
+      ],
+      "OK": [
+        "Adair",
+        "Cherokee",
+        "Craig",
+        "Creek",
+        "Delaware",
+        "Haskell",
+        "Latimer",
+        "Mayes",
+        "McIntosh",
+        "Muskogee",
+        "Nowata",
+        "Okfuskee",
+        "Okmulgee",
+        "Osage",
+        "Pawnee",
+        "Pittsburg",
+        "Rogers",
+        "Tulsa",
+        "Wagoner",
+        "Washington"
+      ]
+    }
+  },
+  "Tuscon": {
+    "states": {
+      "AZ": [
+        "Cochise",
+        "Pima",
+        "Santa Cruz"
+      ]
+    }
+  },
+  "Twin Falls, ID": {
+    "states": {
+      "ID": [
+        "Blaine",
+        "Cassia",
+        "Gooding",
+        "Jerome",
+        "Lincoln",
+        "Minidoka",
+        "Twin Falls"
+      ]
+    }
+  },
+  "Tyler-Longview-Lufkin": {
+    "states": {
+      "TX": [
+        "Angelina",
+        "Camp",
+        "Cherokee",
+        "Franklin",
+        "Gregg",
+        "Houston",
+        "Nacogdoches",
+        "Rusk",
+        "Sabine",
+        "San Augustine",
+        "Smith",
+        "Upshur",
+        "Wood"
+      ]
+    }
+  },
+  "Utica": {
+    "states": {
+      "NY": [
+        "Herkimer",
+        "Oneida",
+        "Otsego"
+      ]
+    }
+  },
+  "Victoria, TX": {
+    "states": {
+      "TX": [
+        "Victoria"
+      ]
+    }
+  },
+  "Waco-Temple-Bryan": {
+    "states": {
+      "TX": [
+        "Bell",
+        "Brazos",
+        "Burleson",
+        "Coryell",
+        "Falls",
+        "Lampasas",
+        "Leon",
+        "Limestone",
+        "Madison",
+        "McLennan",
+        "Milam",
+        "Mills",
+        "Robertson",
+        "San Saba"
+      ]
+    }
+  },
+  "Washington DC": {
+    "states": {
+      "DC": [
+        "District of Columbia"
+      ],
+      "MD": [
+        "Allegany",
+        "Calvert",
+        "Charles",
+        "Frederick",
+        "Montgomery",
+        "Prince George's",
+        "St Mary's",
+        "Washington"
+      ],
+      "PA": [
+        "Fulton"
+      ],
+      "VA": [
+        "Alexandria City",
+        "Arlington",
+        "Arlington",
+        "Clarke",
+        "Culpeper",
+        "Fairfax",
+        "Fairfax City",
+        "Falls Church City",
+        "Fauquier",
+        "Frederick",
+        "Fredericksburg City",
+        "King George",
+        "Loudoun",
+        "Manassas City",
+        "Manassas Park City",
+        "Page",
+        "Prince William",
+        "Rappahannock",
+        "Shenandoah",
+        "Stafford",
+        "Warren",
+        "Westmoreland"
+      ],
+      "WV": [
+        "Berkeley",
+        "Grant",
+        "Hampshire",
+        "Hardy",
+        "Jefferson",
+        "Mineral",
+        "Morgan"
+      ]
+    }
+  },
+  "Watertown, NY": {
+    "states": {
+      "NY": [
+        "Jefferson",
+        "Lewis",
+        "St Lawrence"
+      ]
+    }
+  },
+  "Wausau-Rhinelander": {
+    "states": {
+      "WI": [
+        "Adams",
+        "Forest",
+        "Iron",
+        "Langlade",
+        "Lincoln",
+        "Marathon",
+        "Oneida",
+        "Portage",
+        "Price",
+        "Taylor",
+        "Vilas",
+        "Wood"
+      ]
+    }
+  },
+  "West Palm Beach": {
+    "states": {
+      "FL": [
+        "Indian River",
+        "Martin",
+        "Okeechobee",
+        "Palm Beach",
+        "St Lucie"
+      ]
+    }
+  },
+  "Wheeling-Steubenville": {
+    "states": {
+      "OH": [
+        "Belmont",
+        "Harrison",
+        "Jefferson",
+        "Noble"
+      ],
+      "WV": [
+        "Brooke",
+        "Hancock",
+        "Marshall",
+        "Ohio",
+        "Tyler",
+        "Wetzel"
+      ]
+    }
+  },
+  "Wichita Falls-Lawton": {
+    "states": {
+      "OK": [
+        "Comanche",
+        "Cotton",
+        "Jackson",
+        "Jefferson",
+        "Stephens",
+        "Tillman"
+      ],
+      "TX": [
+        "Archer",
+        "Baylor",
+        "Clay",
+        "Foard",
+        "Hardeman",
+        "King",
+        "Montague",
+        "Throckmorton",
+        "Wichita",
+        "Wilbarger",
+        "Young"
+      ]
+    }
+  },
+  "Wilkes Barre-Scranton": {
+    "states": {
+      "PA": [
+        "Bradford",
+        "Carbon",
+        "Clinton",
+        "Columbia",
+        "Lackawanna",
+        "Luzerne",
+        "Lycoming",
+        "Mahoning",
+        "Monroe",
+        "Montour",
+        "Northumberland",
+        "Schuylkill",
+        "Snyder",
+        "Sullivan",
+        "Susquehanna",
+        "Union",
+        "Wayne",
+        "Wyoming"
+      ]
+    }
+  },
+  "Wilmington": {
+    "states": {
+      "NC": [
+        "Bladen",
+        "Brunswick",
+        "Columbus",
+        "New Hanover",
+        "Pender"
+      ]
+    }
+  },
+  "Witchita-Huchinson": {
+    "states": {
+      "KS": [
+        "Barber",
+        "Barton",
+        "Butler",
+        "Chase",
+        "Cheyenne",
+        "Clark",
+        "Comanche",
+        "Cowley",
+        "Decatur",
+        "Dickinson",
+        "Edwards",
+        "Elk",
+        "Ellis",
+        "Ellsworth",
+        "Finney",
+        "Ford",
+        "Gove",
+        "Graham",
+        "Grant",
+        "Gray",
+        "Greeley",
+        "Greenwood",
+        "Hamilton",
+        "Harper",
+        "Harvey",
+        "Haskell",
+        "Hodgeman",
+        "Kearny",
+        "Kingman",
+        "Kiowa",
+        "Lane",
+        "Lincoln",
+        "Logan",
+        "Marion",
+        "McPherson",
+        "Meade",
+        "Mitchell",
+        "Morton",
+        "Ness",
+        "Norton",
+        "Osborne",
+        "Ottawa",
+        "Pawnee",
+        "Pratt",
+        "Rawlins",
+        "Reno",
+        "Rice",
+        "Rooks",
+        "Rush",
+        "Russell",
+        "Saline",
+        "Scott",
+        "Sedgwick",
+        "Seward",
+        "Sheridan",
+        "Sherman",
+        "Stafford",
+        "Stanton",
+        "Stevens",
+        "Sumner",
+        "Thomas",
+        "Trego",
+        "Wallace",
+        "Wichita"
+      ],
+      "NE": [
+        "Dundy"
+      ]
+    }
+  },
+  "Yakima-Pasco-Richland-Kennewick": {
+    "states": {
+      "OR": [
+        "Morrow",
+        "Umatilla"
+      ],
+      "WA": [
+        "Benton",
+        "Franklin",
+        "Kittitas",
+        "Yakima"
+      ]
+    }
+  },
+  "Youngstown": {
+    "states": {
+      "OH": [
+        "Columbiana",
+        "Mahoning",
+        "Trumbull"
+      ],
+      "PA": [
+        "Mercer"
+      ]
+    }
+  },
+  "Yuma-El Centro": {
+    "states": {
+      "AZ": [
+        "Yuma"
+      ],
+      "CA": [
+        "Imperial"
+      ]
+    }
+  },
+  "Zanesville": {
+    "states": {
+      "OH": [
+        "Muskingum"
+      ]
+    }
+  }
+}
