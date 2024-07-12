@@ -1,23 +1,12 @@
 {
   "Abilene-Sweetwater, TX": {
     "states": {
-      "TX": [
-        "Brown",
-        "Callahan",
-        "Coleman",
-        "Eastland",
-        "Fisher",
-      ]
+      "TX": ["Brown","Callahan","Coleman","Eastland","Fisher"]
     }
   },
   "Albany, GA": {
     "states": {
-      "GA": [
-        "Baker",
-        "Ben Hill",
-        "Brooks",
-        "Calhoun",
-      ]
+      "GA": ["Baker","Ben Hill","Brooks","Calhoun"]
     }
   }
 }
