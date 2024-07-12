@@ -1,13 +1,26 @@
 {
-  "DMA1": {
+  "Abilene-Sweetwater, TX": {
     "states": {
-      "State1": ["County1", "County2"],
-      "State2": ["County3", "County4"]
+      "TX": [
+        "Brown",
+        "Callahan",
+        "Coleman",
+        "Eastland",
+        "Fisher",
+        ...
+      ]
     }
   },
-  "DMA2": {
+  "Albany, GA": {
     "states": {
-      "State3": ["County5", "County6"]
+      "GA": [
+        "Baker",
+        "Ben Hill",
+        "Brooks",
+        "Calhoun",
+        ...
+      ]
     }
-  }
+  },
+  ...
 }
